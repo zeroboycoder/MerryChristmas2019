@@ -1,0 +1,22 @@
+html, body{
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+}
+
+#snow-falling{
+    width: 100%;
+    height: 100vh;
+    background-image: url("./background.jpg");
+    background-size: cover;
+}
+
+#snow-falling h1{
+    font-family: 'Dancing Script', cursive;
+    font-size: 370%;
+    font-weight: 700;
+    position: absolute;
+    top: 3rem;
+    left: 35%;
+    margin: 0;
+}
